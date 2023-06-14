@@ -1,2 +1,1 @@
-# django_devblog
-Dev Blog
+>>dynamic dev_blog using django<<
